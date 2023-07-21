@@ -81,12 +81,10 @@ Hint: The shortcut to select all is Ctrl + A.
   ':.\           .              |              .             ./
    '::.`-        |              °              |            .'
      '':.:.:.:.:.|.:.:.:.:.:.:.:.:.:.:.:.:.:.:.|.:.:.:.:.:·`
-     
+
 ·:·:· 2. Healing ·:·:·
 ------------
-
 ::
-
     )(
    (~≈)
     ¯¯
@@ -127,9 +125,7 @@ This way, it will only activate if the question above equals ``"yes"``.
 
 ·:·:· 3. Play ·:·:·
 ------------
-
 ::
-
     \|' /´,  
     `|    /  ,
     /\ /  `-´-
@@ -150,9 +146,7 @@ When your hitpoints go below 7 it should automatically activate the potion.
 
 ·:·:· 4. Weapons ·:·:·
 ------------
-
 ::
-
   │ O__
   ┼/|)_)
    / \
@@ -171,9 +165,7 @@ All text to the right of the command are additional details for the instruction.
 left or right respectively. You could add more details to specify which weapon to equip, as you probably have many swords in your inventory. 
 For example you can add ``*7`` to specify it's a 7-star weapon: ``equipL sword *7``. Without any additional details the AI will find your best 
 weapon and equip that, which is probably ok.
-
 ::
-
      |/) 
    o.-._ 
   ´ /|`-`
@@ -215,9 +207,7 @@ That is, until you run out of Tar for potions or your inventory becomes full wit
 
 ·:·:· 5. Wood ·:·:·
 ------------
-
 ::
-
       \|
        |, |/
     \| |  /-'
@@ -242,9 +232,7 @@ Visit Deadwood to try out your latest changes!
 
 ·:·:· 6. More Healing ·:·:·
 ------------
-
 ::
-
          ____,
       _.-·´ o/`___
     ,´  _.-._\¯¯`-.`.
@@ -282,9 +270,7 @@ The whole instruction means:
 
 ·:·:· 7. Pickups ·:·:·
 ------------
-
 ::
-
      ,
    _/-'
 
@@ -341,9 +327,7 @@ But also, add space to the front of all the lines thereafter, so they become dep
 
 ·:·:· What's next? ·:·:·
 ------------
-
 ::
-
        .-.
        \ ´ .-.
   ,-.   )  \ ´
