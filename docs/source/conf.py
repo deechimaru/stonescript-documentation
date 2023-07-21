@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Stonescript'
+copyright = '2023, Martian Rex Inc.'
+author = 'Deechi, Martian Rex'
 
 release = '0.1'
-version = '0.1.0'
+version = '3.32.3'
 
 # -- General configuration
 
@@ -27,9 +27,15 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+html_static_path = ['_static']
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+html_css_files = [
+    'css/custom.css',
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
